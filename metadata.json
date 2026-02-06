@@ -1,0 +1,7 @@
+{
+  "name": "Donuts Rahma - Casablanca",
+  "description": "A premium, conversion-focused donut shop website featuring flavor exploration, pack selection, and seamless WhatsApp ordering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
